@@ -5,15 +5,16 @@
 <p>You need FFMPEG too</p>
 
 
-<br />Then you will have to fill in your config.json file.
+<br />
+Then you will have to fill in your config.json file.
 <br />Exemple:
-<br />{
+<br />`{
 <br />    "token": "TOKEN",
 <br />    "prefix": "/",
 <br />    "botOwner": "YourID",
 <br />    "statusChannel": "TextChannelID",
 <br />    "voiceChannel": "VoiceChannelID"
-<br />}
+<br />}`
 <br />
 <br />
 <br />Then, you will have to create a folder named music, and put your music inside.
