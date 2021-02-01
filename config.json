@@ -1,0 +1,7 @@
+{
+    "token": "YourToken",
+    "prefix": "YourPrefix",
+    "botOwner": "YourID",
+    "statusChannel": "TextChannelID",
+    "voiceChannel": "VoiceChannelID"
+}
